@@ -1,0 +1,58 @@
+html {
+  font-family: Arial,Helvetica,sans-serif;
+}
+
+#card {
+width: 300px;
+padding: 20px;
+border: 1px solid #cccccc;
+box-shadow: 5px 5px rgba(119, 101, 101, 0.3);
+column-gap: 40px;
+margin-right:1.25em;
+box-shadow: 5px 10px black;
+border-radius: 21px 21px 21px 21px;
+}
+
+.title {
+font-weight: bold;
+text-align: center;
+font-style: italic;
+
+}
+
+.picture {
+opacity: 1.5;
+    filter: alpha(opacity=100);
+width: 300px;
+border-radius: 45px 19px;
+box-shadow: 5px 10px grey;
+
+}
+
+#card-info{
+column-gap: 40px;
+ margin: 5px;
+padding: 20px;
+border: 1px solid #cccccc;
+background-color: skyblue;
+border-radius: 45px 19px;
+opacity: 2.5;
+box-shadow: 5px 10px grey;
+
+}
+
+.label {
+font-weight: bold;
+color: blue;
+
+}
+
+.fact {
+font-style: italic;
+}
+
+.list {
+list-style: none;
+padding: 0px;
+}
+
